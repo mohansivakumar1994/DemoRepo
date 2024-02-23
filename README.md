@@ -14,7 +14,8 @@ this one task has two activities here attached this file
   
   2. creating the about blog about objects and its internal representation in Javascript
  
-    -Link for the blog [CLICK HERE](https://medium.com/@mohansivakumar359/
+    -Link for the blog first task 1 second link
+-Link for the blog [CLICK HERE](https://medium.com/@mohansivakumar359/
     
     Demo-2-on-posting-a-post-on-medium about-objects-and-its-internal-representation-in-javascript-c809addd4b2d
     )
