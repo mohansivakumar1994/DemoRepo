@@ -1,25 +1,16 @@
-# Task 1
+TASK 3
 
-This is a repositary created for submitting my first task
+Assignment : 1
 
-this one task has two activities here attached this file
+Compare two JSON have the same properties with order
 
-1. creating a blog about Difference between HTTP1.1 vs HTTP2
+a) let obj1 = { name: "person 1", age:5};
+b) let obj2 = { age:5, name: "person 1"};
 
-  -Link for the blog [CLICK HERE](https://medium.com/@mohansivakumar359/
-    
-     Demo-1-on-posting-a-post-on-medium-893d24d1e90a)
-    
-     - In the about blog discussed about blog on Difference between HTTP1.1 vs HTTP2
-  
-  2. creating the about blog about objects and its internal representation in Javascript
- 
--Link for the blog [CLICK HERE](https://medium.com/@mohansivakumar359/
-    
-    Demo-2-on-posting-a-post-on-medium about-objects-and-its-internal-representation-in-javascript-c809addd4b2d
-    )
-     
-     Something about the above blog
+Compared two JSON as the same properties with order
 
-     thanks for spening your evaluating time for this task,awaiting for your valuable feedback. once again thanks.
+Assignment : 2
 
+Rest countries API URL -> https://restcountries.com/v3.1/all and display all the country flags in the console
+
+As the file attached with the Rest countries API URL -> [CLICK HERE](https://flagcdn.com/w320/ss.png) to displayed all the countries flags on the console.
